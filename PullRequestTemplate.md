@@ -15,14 +15,6 @@ Describe the purpose of this change.
 - [ ] AI-assisted test generation
 - [ ] AI-assisted documentation
 
-Tool(s) Used:
-
-- [ ] GitHub Copilot
-- [ ] ChatGPT
-- [ ] Cursor
-- [ ] Claude
-- [ ] Other: __________
-
 ---
 
 ## Developer Verification
@@ -43,23 +35,6 @@ I confirm that:
 - [ ] Static analysis passes.
 - [ ] No compiler warnings introduced.
 - [ ] Documentation updated (if applicable).
-
----
-
-## Security Review
-
-Does this PR affect any of the following?
-
-- [ ] Authentication
-- [ ] Authorization
-- [ ] Encryption
-- [ ] Secrets/Credentials
-- [ ] Customer Data
-- [ ] External API Integrations
-
-If yes:
-
-- [ ] Security review completed.
 
 ---
 
@@ -86,3 +61,16 @@ Reviewer confirms:
 - [ ] No obvious AI hallucinations.
 - [ ] Coding standards followed.
 - [ ] Security concerns addressed.
+
+----
+## Result:
+PR opened
+     ↓
+Template incomplete
+     ↓
+Build fails
+     ↓
+Cannot merge
+
+
+
